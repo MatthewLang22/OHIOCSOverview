@@ -1,4 +1,4 @@
-# Software Design and Develop I & II
+# Software Design and Development I & II
 ## Team GAMA - Matthew Lang, Alex Heffner, Gavin Dassatti, Aaron Begy
 ## Roles:
 * Team Leader - Matthew Lang
