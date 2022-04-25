@@ -8,7 +8,7 @@
 
 ## To Deploy:
 Click the link below to launch our project on your web browser! <br />
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/senior-design-21-22/gama/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MatthewLang22/OHIOCSOverview/HEAD)
 
 ## To Install and Run Locally For Developers: 
   1. Install Pip for installation of jupyter-lab
