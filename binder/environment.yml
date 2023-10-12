@@ -1,7 +1,6 @@
 names: 
   - xeus-cling
   - java_env
-  - beakerx
 channels:
   - conda-forge
   - defaults
@@ -18,7 +17,6 @@ dependencies:
   - metakernel
   - scijava-jupyter-kernel
   - ipywidgets
-  - beakerx
   - scipy
   - scikit-learn
   - pip:
